@@ -1,0 +1,21 @@
+@charset "iso-8859-1";
+/* CSS Document */
+
+
+.ls-layer h1.title{
+	background:rgba(0,0,0,0.75);
+	padding:5px 15px;
+	color:#fff
+}
+
+
+
+.ls-layer .color-text{
+	background:#1e06db;
+	/*background:rgba(0,0,0,0.75);*/
+	padding:5px 15px;
+	color:#fff !important;
+	text-transform:none !important
+}
+
+

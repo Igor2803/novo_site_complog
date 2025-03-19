@@ -1,0 +1,1 @@
+<a href="../home"><div class="logo"><img src="../../assets/img/logo_sgrlog.png" alt="SGRLOG"></div></a>

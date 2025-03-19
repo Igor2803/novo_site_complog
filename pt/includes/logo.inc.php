@@ -1,0 +1,2 @@
+<a href="../home"><div class="logo"><img src="../../assets/img/logo_sgrlog.png" alt="SGRLOG"></div></a>
+<img src="../../assets/img/10_ANOS.png" alt="" style="position:absolute; top: 15px; left:200px; z-index:999 ">

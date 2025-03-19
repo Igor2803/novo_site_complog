@@ -1,12 +1,12 @@
-# 🚀 Complog - O Seu Sistema de Logística Inteligente!
+# 🚀 Complog - Site!
 
 Seja bem-vindo ao **Complog**! 🎉
 
-> "A logística perfeita começa aqui!" 🏆
+> "A tecnologia perfeita começa aqui!" 🏆
 
 ## 📌 Sobre o Projeto
 
-O **Complog** é um sistema web desenvolvido em **PHP** para facilitar e otimizar processos logísticos. Com uma interface amigável e funcionalidades avançadas, queremos tornar a logística **mais rápida, eficiente e inteligente**! 📦🚚💨
+O site da **Complog** é desenvolvido em **PHP** para apresentar a empresa para web. Com uma interface amigável e funcionalidades avançadas, queremos tornar a logística **mais rápida, eficiente e inteligente**! 📦🚚💨
 
 ## 🔥 Funcionalidades
 
@@ -53,4 +53,4 @@ Este projeto está sob a licença **MIT**. Sinta-se livre para usá-lo e aprimor
 
 ---
 
-🔗 **Vamos juntos revolucionar a logística!** 💡💼🚀
+🔗 **Vamos juntos revolucionar a tecnologia!** 💡💼🚀
